@@ -1,0 +1,15 @@
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\UC9_16-02-2023_cadastro.exe
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\UC9_16-02-2023_cadastro.deps.json
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\UC9_16-02-2023_cadastro.runtimeconfig.json
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\UC9_16-02-2023_cadastro.dll
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\ref\UC9_16-02-2023_cadastro.dll
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\bin\Debug\net6.0\UC9_16-02-2023_cadastro.pdb
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.csproj.AssemblyReference.cache
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.AssemblyInfoInputs.cache
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.AssemblyInfo.cs
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.dll
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\ref\UC9_16-02-2023_cadastro.dll
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.pdb
+C:\Users\guilherme.dsantos18\source\repos\UC9_16-02-2023_cadastro\UC9_16-02-2023_cadastro\obj\Debug\net6.0\UC9_16-02-2023_cadastro.genruntimeconfig.cache
